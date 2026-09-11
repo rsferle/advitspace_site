@@ -1,5 +1,5 @@
 theme: "github.com/writeonlycode/hugo-up-business"
-languageCode: "en-us"
+locale: "en-us"
 
 build:
   buildStats:
@@ -30,3 +30,26 @@ module:
 taxonomies:
   series: "series"
   tags: "tags"
+
+security:
+  exec:
+    allow:
+      - ^(dart-)?sass$
+      - ^go$
+      - ^git$
+      - ^node$
+      - ^postcss$
+      - ^npx$
+      - ^node$
+      - ^babel$
+      - ^tailwindcss$
+  funcs:
+    getenv:
+      - ^HUGO_
+      - ^CI$
+  http:
+    urls:
+      - (?i)^https?://[a-z0-9]
+      - ! (?i)^https?://\d+\.
+      - ! (?i)localhost
+      - ! (?i)^https?://[^/?#]*@
