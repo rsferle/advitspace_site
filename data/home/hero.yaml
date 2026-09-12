@@ -3,8 +3,4 @@ enable: true
 title: "Advitspace"
 text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Est faucibus tellus leo non pellentesque lorem vel. Arcu magna eros, potenti duis."
 
-buttons:
-  - label: "Contact us"
-    link: "/contact"
-
-image: "images/hero-image.png"
+image: "images/cyber-security.jpg" # image from https://www.cde.ual.es/en/enisa-cyber-attacks-becoming-more-sophisticated/

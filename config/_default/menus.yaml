@@ -8,7 +8,7 @@ main:
     weight: 3
 
 buttons:
-  - name: "Book a call"
+  - name: "Contact us"
     url: "/contact"
     weight: 5
 
@@ -19,4 +19,8 @@ footer:
 
   - name: "Our team"
     url: "/#"
+    weight: 3
+
+  - name: "Contact us"
+    url: "/contact"
     weight: 3

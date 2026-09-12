@@ -3,16 +3,16 @@ enable: true
 title: "Our main services"
 text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nec quam nibh elit pellentesque velit netus suspendisse. Sed enim, pretium, montes, in ut dolor urna."
 cards:
-  - image: "images/services-web-development.png"
+  - image: "images/cyber_image.jpg" # image from https://mississippitoday.org/2018/04/10/first-cybersecurity-summit-keeps-hackers-and-terrorists-at-bay/
     title: "Cyber Essentials"
     text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Molestie in malesuada eget fames purus ligula luctus tellus. Habitant condimentum sit gravida praesent. "
    
 
-  - image: "images/services-web-development.png"
+  - image: "images/IT_consultancy.jpg" # image from https://www.istockphoto.com/photo/it-consultancy-gm1181870910-331646905 or mayber https://www.openaccessgovernment.org/practical-cyber-security-risk-awareness-strategy/162241/
     title: "IT Consultancy"
     text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Molestie in malesuada eget fames purus ligula luctus tellus. Habitant condimentum sit gravida praesent. "
 
-  - image: "images/services-web-development.png"
+  - image: "images/grc.png"
     title: "GRC Services"
     text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Molestie in malesuada eget fames purus ligula luctus tellus. Habitant condimentum sit gravida praesent. "
   
