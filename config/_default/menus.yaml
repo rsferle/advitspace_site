@@ -3,25 +3,13 @@ main:
     url: "/#hero"
     weight: 1
 
-  - name: "How we work"
-    url: "/#"
-    weight: 2
-
   - name: "Our team"
-    url: "/#"
+    url: "/team/"
     weight: 3
-
-  - name: "Pricing"
-    url: "/#"
-    weight: 4
-
-  - name: "Blog"
-    url: "/blog"
-    weight: 5
 
 buttons:
   - name: "Book a call"
-    url: "/#"
+    url: "/contact"
     weight: 5
 
 footer:
@@ -29,18 +17,6 @@ footer:
     url: "/#hero"
     weight: 1
 
-  - name: "How we work"
-    url: "/#"
-    weight: 2
-
   - name: "Our team"
     url: "/#"
     weight: 3
-
-  - name: "Pricing"
-    url: "/#"
-    weight: 4
-
-  - name: "Blog"
-    url: "/blog"
-    weight: 5

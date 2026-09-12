@@ -4,22 +4,15 @@ title: "Our main services"
 text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nec quam nibh elit pellentesque velit netus suspendisse. Sed enim, pretium, montes, in ut dolor urna."
 cards:
   - image: "images/services-web-development.png"
-    title: "Web development"
+    title: "Cyber Essentials"
     text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Molestie in malesuada eget fames purus ligula luctus tellus. Habitant condimentum sit gravida praesent. "
-    button:
-      label: "Learn more"
-      link: "#"
+   
 
   - image: "images/services-web-development.png"
-    title: "Web development"
+    title: "IT Consultancy"
     text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Molestie in malesuada eget fames purus ligula luctus tellus. Habitant condimentum sit gravida praesent. "
-    button:
-      label: "Learn more"
-      link: "#"
 
   - image: "images/services-web-development.png"
-    title: "Web development"
+    title: "GRC Services"
     text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Molestie in malesuada eget fames purus ligula luctus tellus. Habitant condimentum sit gravida praesent. "
-    button:
-      label: "Learn more"
-      link: "#"
+  
