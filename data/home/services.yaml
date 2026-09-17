@@ -1,18 +1,21 @@
 enable: true
 
 title: "Our main services"
-text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nec quam nibh elit pellentesque velit netus suspendisse. Sed enim, pretium, montes, in ut dolor urna."
+text: "Advitspace is a family-run cybersecurity consultancy and IASME certification body, built on a shared commitment to helping organisations across the UK understand, manage and improve their cyber risk. \n\ We combine practical cybersecurity expertise, independent assessment and consultancy with a personal, client-focused approach. \n\ Through cyber consultancy, security assessments and certification services, we help organisations strengthen their security, meet recognised standards and build confidence in their cyber resilience. As a family business, we value trust, integrity and long-term relationships. We take the time to understand each client's organisation, challenges and risk environment, providing practical advice and assurance that makes cybersecurity achievable, sustainable and relevant to the real world. Our aim is to make cybersecurity clearer, more practical and more accessible for the organisations we work with."
 cards:
   - image: "images/cyber_image.jpg" # image from https://mississippitoday.org/2018/04/10/first-cybersecurity-summit-keeps-hackers-and-terrorists-at-bay/
+    
     title: "Cyber Essentials"
     text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Molestie in malesuada eget fames purus ligula luctus tellus. Habitant condimentum sit gravida praesent. "
    
 
   - image: "images/IT_consultancy.jpg" # image from https://www.istockphoto.com/photo/it-consultancy-gm1181870910-331646905 or mayber https://www.openaccessgovernment.org/practical-cyber-security-risk-awareness-strategy/162241/
-    title: "IT Consultancy"
+    
+    title: "Cyber Assurance"
     text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Molestie in malesuada eget fames purus ligula luctus tellus. Habitant condimentum sit gravida praesent. "
 
-  - image: "images/grc.png"
-    title: "GRC Services"
+  - image: "images/consultancy.jpg" # image from https://www.picpedia.org/chalkboard/c/consulting-services.html
+    
+    title: "Consultancy"
     text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Molestie in malesuada eget fames purus ligula luctus tellus. Habitant condimentum sit gravida praesent. "
   
