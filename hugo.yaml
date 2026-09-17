@@ -53,3 +53,6 @@ security:
       - ! (?i)^https?://\d+\.
       - ! (?i)localhost
       - ! (?i)^https?://[^/?#]*@
+caches:
+  images:
+    dir: :cacheDir/images
