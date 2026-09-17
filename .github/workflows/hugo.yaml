@@ -72,9 +72,6 @@ jobs:
 
       - name: Install Tailwind CSS CLI
         run: |
-           run: |
-                  - name: Install Tailwind CSS CLI
-        run: |
           wget -q \
             https://github.com/tailwindlabs/tailwindcss/releases/download/v3.4.17/tailwindcss-linux-x64 \
             -O "${RUNNER_TEMP}/tailwindcss"
