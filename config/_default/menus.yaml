@@ -18,7 +18,7 @@ footer:
     weight: 1
 
   - name: "Our team"
-    url: "/#"
+    url: "/team"
     weight: 3
 
   - name: "Contact us"

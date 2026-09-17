@@ -1,12 +1,24 @@
 enable: true
 
 title: "Our main services"
-text: "Advitspace is a family-run cybersecurity consultancy and IASME certification body, built on a shared commitment to helping organisations across the UK understand, manage and improve their cyber risk. \n\ We combine practical cybersecurity expertise, independent assessment and consultancy with a personal, client-focused approach. \n\ Through cyber consultancy, security assessments and certification services, we help organisations strengthen their security, meet recognised standards and build confidence in their cyber resilience. As a family business, we value trust, integrity and long-term relationships. We take the time to understand each client's organisation, challenges and risk environment, providing practical advice and assurance that makes cybersecurity achievable, sustainable and relevant to the real world. Our aim is to make cybersecurity clearer, more practical and more accessible for the organisations we work with."
+text:  "Services coming soon!"
 cards:
   - image: "images/cyber_image.jpg" # image from https://mississippitoday.org/2018/04/10/first-cybersecurity-summit-keeps-hackers-and-terrorists-at-bay/
     
     title: "Cyber Essentials"
-    text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Molestie in malesuada eget fames purus ligula luctus tellus. Habitant condimentum sit gravida praesent. "
+    
+    text: |
+      Protect your business. Prove your security.
+
+      Why Cyber Essentials?
+      - Protect your organisation against common cyber threats
+      - Achieve a government-backed certification
+      - Demonstrate that you have the essential technical controls in place
+      - Meet certification requirements for contracts and supply chains
+      - Build confidence with customers, partners and stakeholders
+      - A practical and affordable approach to improving your cyber security
+
+       CTA - Coming soon / Get Cyber Essentials Certified
    
 
   - image: "images/IT_consultancy.jpg" # image from https://www.istockphoto.com/photo/it-consultancy-gm1181870910-331646905 or mayber https://www.openaccessgovernment.org/practical-cyber-security-risk-awareness-strategy/162241/

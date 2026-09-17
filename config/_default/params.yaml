@@ -1,18 +1,15 @@
 title: "Advitspace"
-description: "We specialize in providing services to desing websites, applications, build and maintain business for customers."
+description: "Advitspace is a consultancy built to help organisations understand, manage and improve their cyber risk."
 images: 
-  - "images/hero-image.png"
+  - "images/logo.png"
 
-logo: "arrow-up.png"
+logo: "images/logo.png"
 
 favicons:
   themeColor: "#FFFFFF"
   backgroundColor: "#FFFFFF"
   faviconColor: "#000000"
 
-social:
-  facebook: "#"
-  linkedin: "#"
 
 location:
   - "167-169 Great Portland Street, 5th Floor, London, United Kingdom, W1W 5PF"
