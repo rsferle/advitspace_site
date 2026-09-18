@@ -132,7 +132,7 @@ jobs:
           hugo build \
             --gc \
             --minify \
-            --baseURL "${{ steps.pages.outputs.base_url }}/" \
+            --baseURL "https://advitspace.com/" \
             --cacheDir "${{ runner.temp }}/.cache/hugo"
 
       - name: Cache save
